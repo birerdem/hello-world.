@@ -1,1 +1,1 @@
-# hello-world.
+# hello-world.benim kullanıcı adım birerdem
